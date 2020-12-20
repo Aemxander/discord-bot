@@ -110,7 +110,7 @@ Update the KEYS.py file by adding your Discord login token and API keys. There a
 
 
 ## Installation
-Our project requires Python 3 and multiple packages to run.
+This project requires Python 3 and multiple packages to run.
 
 [Install Python here.](https://www.python.org/downloads/)
 
@@ -135,7 +135,7 @@ python DiscordBot.py
 
 
 ## Authors
-Alex Mello - [Twitter](https://twitter.com/Alex_E_Mello), [GitHub](https://github.com/Alex-E-Mello)
+Alex Mello - [GitHub](https://github.com/Alex-E-Mello)
 
 
 
