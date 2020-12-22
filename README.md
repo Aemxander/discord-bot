@@ -14,6 +14,8 @@ APIs currently in use by the bot:
 * [NASA Mars Rover Photos]
 * [OMBd]
 * [RoboHash]
+* [TheCatAPI]
+* [TheDogAPI]
 
 
 
@@ -155,3 +157,5 @@ MIT
    [NASA Mars Rover Photos]: <https://github.com/chrisccerami/mars-photo-api>
    [OMBd]: <http://www.omdbapi.com/>
    [RoboHash]: <https://github.com/e1ven/Robohash>
+   [TheCatAPI]: <https://thecatapi.com/>
+   [TheDogAPI]: <https://thedogapi.com/>
