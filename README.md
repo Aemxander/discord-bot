@@ -1,8 +1,6 @@
 # Houhou Discord Bot
 This Discord bot connects to many different APIs and can be added to a Discord server to allow users to get the functionality of the APIs without leaving Discord!
 
-If you would like to test out the bot you can join the discord server by clicking this [link]! 
-
 
 
 ## APIs
