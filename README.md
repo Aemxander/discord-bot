@@ -15,7 +15,7 @@ APIs currently in use by the bot:
 * [TheCatAPI]
 * [TheDogAPI]
 
-
+<!---
 
 ## Commands
 #### <ins>CAT COMMANDS</ins>
@@ -100,7 +100,7 @@ APIs currently in use by the bot:
  * Searches for stocks based on the search term
  * `Ex. !stock search Amazon`
 
-
+-->
 
 ## Setup
 Create a bot account and add it to your server by following [this tutorial](https://discordpy.readthedocs.io/en/latest/discord.html).
