@@ -1,5 +1,5 @@
-# Houhou Discord Bot
-This Discord bot connects to many different APIs and can be added to a Discord server to allow users to get the functionality of the APIs without leaving Discord!
+# Multipurpose Discord Bot
+This Discord bot connects to different APIs and can be added to a Discord server to allow users to get the functionality of the APIs without leaving Discord!
 
 
 
