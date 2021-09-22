@@ -157,3 +157,10 @@ MIT
    [RoboHash]: <https://github.com/e1ven/Robohash>
    [TheCatAPI]: <https://thecatapi.com/>
    [TheDogAPI]: <https://thedogapi.com/>
+   
+## Images  
+![](https://github.com/alex-e-mello/discord-bot/blob/main/Images/ImbdCommands.png)
+![](https://github.com/alex-e-mello/discord-bot/blob/main/Images/JokeCommands.png)
+![](https://github.com/alex-e-mello/discord-bot/blob/main/Images/StockCommands.png)
+![](https://github.com/alex-e-mello/discord-bot/blob/main/Images/NasaSearchCommands.png)
+![](https://github.com/alex-e-mello/discord-bot/blob/main/Images/NasaApodCommands.png)
